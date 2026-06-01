@@ -149,6 +149,7 @@ Este tipo de análisis es útil para:
 **Ruben Barrios**
 
 Proyecto práctico desarrollado como parte de portafolio profesional en análisis de datos y Business Intelligence.
+
 Fuente de los datos: Academia Datdata.
 
 ---
