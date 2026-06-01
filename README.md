@@ -85,14 +85,19 @@ Relación: `Datos[Tipo Producto]` → `Productos[Tipo Producto]` (Muchos a uno)
 
 ---
 
-## 🛠 Herramientas y Tecnologías Utilizadas
+## 🛠 Herramientas utilizadas
 
 - Power BI Desktop
 - Power BI Service
-- DAX (Data Analysis Expressions)
-- Modelado de datos relacional
-- Diseño de visualizaciones ejecutivas
-- Storytelling con datos
+
+---
+
+🧩 Habilidades Aplicadas
+
+DAX
+Modelado de datos relacional
+Diseño de visualizaciones ejecutivas
+Storytelling con datos
 
 ---
 
