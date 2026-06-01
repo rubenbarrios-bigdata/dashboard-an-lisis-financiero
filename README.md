@@ -94,10 +94,10 @@ Relación: `Datos[Tipo Producto]` → `Productos[Tipo Producto]` (Muchos a uno)
 
 🧩 Habilidades Aplicadas
 
-DAX
-Modelado de datos relacional
-Diseño de visualizaciones ejecutivas
-Storytelling con datos
+-DAX
+-Modelado de datos relacional
+-Diseño de visualizaciones ejecutivas
+-Storytelling con datos
 
 ---
 
