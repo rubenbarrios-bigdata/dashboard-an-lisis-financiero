@@ -85,7 +85,7 @@ Relación: `Datos[Tipo Producto]` → `Productos[Tipo Producto]` (Muchos a uno)
 
 ---
 
-## 🛠 Herramientas utilizadas
+## 🛠 Herramientas Utilizadas
 
 - Power BI Desktop
 - Power BI Service
