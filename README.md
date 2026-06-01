@@ -6,7 +6,7 @@ https://app.powerbi.com/groups/me/reports/440bf669-5b07-4746-9d67-9a0677db6bcd/2
 
 ## 📌 Descripción del Proyecto
 
-Este proyecto presenta un **Dashboard de Análisis Financiero** desarrollado en Power BI para una empresa ficticia del rubro **tecnología de consumo masivo** (consumer tech), con dos líneas de negocio: **Dispositivos** (hardware) y **Digital** (software y servicios). El modelo abarca el período **2025–2027** con presencia comercial en 5 continentes.
+Este proyecto presenta un **Dashboard de Análisis Financiero** desarrollado en Power BI para una empresa del rubro **tecnología de consumo masivo** (consumer tech), con dos líneas de negocio: **Dispositivos** (hardware) y **Digital** (software y servicios). El modelo abarca el período **2025–2027** con presencia comercial en 5 continentes.
 
 El informe está diseñado con enfoque ejecutivo para facilitar la toma de decisiones basada en datos, permitiendo analizar rentabilidad, evolución temporal y desempeño por mercado geográfico.
 
