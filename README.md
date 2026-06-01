@@ -158,4 +158,4 @@ No olvides darle una estrella al repositorio y conectar en LinkedIn.
 
 https://www.linkedin.com/in/ruben-barrios-1430712ab/
 
-`#DataAnalytics` `#PowerBI` `#BusinessIntelligence` `#FinancialAnalysis` `#DAX` `#DataPortfolio` `#ConsumerTech`
+`#DataAnalytics` `#PowerBI` `#BusinessIntelligence` `#FinancialAnalysis` `#DAX` `#DataPortfolio` `#ConsumerTech` `#Datdata`
