@@ -1,10 +1,11 @@
 # 📊 Dashboard Análisis Financiero | Power BI
 
-https://app.powerbi.com/groups/me/reports/440bf669-5b07-4746-9d67-9a0677db6bcd/24113e6cc83b6d0220e9?redirectedFromSignup=1&experience=power-bi
+[![Ver Dashboard Interactivo](https://img.shields.io/badge/Power_BI-Ver_Dashboard_Interactivo-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiODA3OGI5MjQtMzcxNi00MjcxLWI2NDQtNjg4NWQzYWI0OTRmIiwidCI6IjgxY2NjYzQzLWI1NjEtNDFmNy05NDgwLWU5ZThmMDI3YzQ0MyIsImMiOjR9)
+[![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/rubenbarrios-bigdata)
+[![Estado](https://img.shields.io/badge/Estado-Completado-brightgreen?style=for-the-badge)](https://github.com/rubenbarrios-bigdata)
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Status](https://img.shields.io/badge/Estado-Completado-brightgreen?style=for-the-badge)
+> 🚀 **¡Demo interactiva en vivo!** Haz clic en el botón superior **"Ver Dashboard Interactivo"** para analizar la evolución de ingresos, gastos, utilidades y márgenes por categoría y región sin necesidad de inicio de sesión.
+
 
 ---
 
